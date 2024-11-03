@@ -1,14 +1,15 @@
 # k11e1 (11 keys, 1 encoder)
-A custom 4x3 macro pad with full RGB lighting, a knob, and full QMK+VIA support.
+A simple and custom 4x3 macro pad.
 
 ## Features:
-
-- [X] **QMK/VIA Support**
+- [X] **VIA Support**
 - [X] **RGB Ligting**
+- [X] **QMK bootmagic**
 
 ## Hardware
-**Switches**: Kailh Choc (Low Profile)
-**MCU**: Waveshare rp2040-zero
+- **Switches**: Kailh Choc (Low Profile)
+- **MCU**: Waveshare RP2040-Zero
+- **Keycaps**: Chocfox PBT (Frosted Transparent Black - 1U)
 
 # PCB Images
 ![](images/pcb-front.png)
