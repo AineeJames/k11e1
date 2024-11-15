@@ -1,8 +1,8 @@
 # k11e1 (11 keys, 1 encoder)
 
-![frontside picture](./images/frontside.jpg)
-![backside picture](./images/backside.jpg)
-![layer leds picture](./images/layer_leds.jpg)
+![frontside picture](./images/frontside.jpg | width=300)
+![backside picture](./images/backside.jpg | width=300)
+![layer leds picture](./images/layer_leds.jpg | width=300)
 
 ## 🌟 Key Features:
 - **VIA Support**: Easily customizable through VIA, making it simple to remap keys without needing to recompile firmware.
