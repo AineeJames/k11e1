@@ -10,7 +10,3 @@
 - **Switches**: Kailh Choc (Low Profile) 🕹️ gives a slim and sleek look while maintaining responsiveness.
 - **MCU**: Waveshare RP2040-Zero ⚙️  is a solid choice, offering a lot of power and flexibility for your macros.
 - **Keycaps**: Chocfox PBT in frosted transparent black 🌫️ frosted finish with a bit of flair thanks to the frosted transparency.
-
-## PCB Images
-![](images/pcb-front.png)
-![](images/pcb-back.png)
