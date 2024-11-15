@@ -1,8 +1,6 @@
 # k11e1 (11 keys, 1 encoder)
 
-![frontside picture](./images/frontside.jpg | width=300)
-![backside picture](./images/backside.jpg | width=300)
-![layer leds picture](./images/layer_leds.jpg | width=300)
+![frontside picture](./images/frontside.jpg)
 
 ## 🌟 Key Features:
 - **VIA Support**: Easily customizable through VIA, making it simple to remap keys without needing to recompile firmware.
@@ -40,3 +38,7 @@
 | Rubber Feet                    | 4            | Any 13mm diameter rubber feet will work!                                                                                         |
 | M2x5mm Screws                  | 8            |                                                                                                                                  |
 | M2x6mm Female-Female Standoffs | 4            |                                                                                                                                  |
+
+## 📷 Additional Pictures:
+![backside picture](./images/backside.jpg)
+![layer leds picture](./images/layer_leds.jpg)
